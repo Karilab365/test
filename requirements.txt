@@ -1,3 +1,14 @@
 streamlit
+yfinance
+feedparser
 pandas
+numpy
 scikit-learn
+matplotlib
+seaborn
+plotly
+torch
+transformers
+langdetect
+openai
+requests
