@@ -173,7 +173,7 @@ if "preferred_stock" not in st.session_state:
 
 # --- Streamlit Layout ---
 
-st.set_page_config(page_title="Xiaomi Stock Sentiment Analysis Platform", layout="wide")
+
 st.title("📊 Xiaomi Stock Sentiment Analysis Platform v2.0")
 
 # Sidebar
